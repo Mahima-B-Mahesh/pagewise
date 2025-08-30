@@ -39,6 +39,7 @@ static_root/
 node_modules/
 dist/
 build/
+static/
 
 # OS files
 .DS_Store
