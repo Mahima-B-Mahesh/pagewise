@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# Django
+*.log
+*.pot
+*.pyc
+*.mo
+*.db
+*.sqlite3
+db.sqlite3
+media/
+
+# Migrations (keep only after initial setup if needed)
+*/migrations/__pycache__/
+*/migrations/*.py
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# VS Code / PyCharm / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Static / Build
+staticfiles/
+static_root/
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
