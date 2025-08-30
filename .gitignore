@@ -40,7 +40,7 @@ node_modules/
 dist/
 build/
 static/
-
+media/
 # OS files
 .DS_Store
 Thumbs.db
